@@ -56,6 +56,42 @@ Visuals convert complex concepts into clear, structured, and digestible informat
 - Overview of the documentation lifecycle
 
 
+#### Group-5: Software Standards
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| Arinda Jordan           | 2023/BSE/024/PS  |
+| Kihagame Ismael         | 2023/BSE/065/PS  |
+| Labeja John Baptist     | 2023/BSE/071/PS  |
+| Namanya Mervin          | 2023/BSE/105/PS  |
+| Arinaitwe Allan         | 2023/BSE/160/PS  |
+
+---
+
+###  Purpose
+To ensure software is developed with **quality**, **consistency**, and **reliability** through recognized guidelines and practices.
+
+---
+
+###  Types of Standards
+- **Product:** Defines quality and performance needs.  
+- **Process:** Guides the development life cycle.  
+- **Coding:** Ensures readable and maintainable code.  
+- **Documentation:** Promotes clear, complete records.  
+- **Testing:** Verifies that software meets requirements.
+
+---
+
+###  Importance
+- **Quality Assurance** – Improves reliability and performance.  
+- **Interoperability** – Enables system compatibility.  
+- **Maintainability** – Simplifies updates and debugging.  
+- **Communication** – Builds a shared technical language.  
+- **Security** – Protects against risks and vulnerabilities.
+
+---
+
+###  Summary
+Software standards provide the **framework for quality software**, ensuring consistency, collaboration, and safety across development.
 
 
 
