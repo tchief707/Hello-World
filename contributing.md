@@ -41,7 +41,19 @@ Visuals convert complex concepts into clear, structured, and digestible informat
 - Screenshots  
 - Diagramming Tools
 
+#### Group-1: Introduction to Technical Documentation
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| Akandinda Ark     | 2023/BSE/011/PS  |
+| Nuwe Byant Nyero          | 2023/BSE/122/PS  |
+| Natukunda Jovita   | 2023/BSE/109/PS  |
+| Birungi Miriam Angella       | 2023/BSE/041/PS  |
+| Amabe Godwin Pario        | 2023/BSE/015/PS  |
 
+### Key Aspects
+- The role and importance of documentation in SE.
+- Challenges of paper-based vs. online docs.
+- Overview of the documentation lifecycle
 
 
 
